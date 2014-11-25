@@ -6,6 +6,7 @@ gem 'rails', '4.1.8'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'uglifier'
+gem 'sass-rails'
 group :development, :test do
   gem 'sqlite3'
 end
