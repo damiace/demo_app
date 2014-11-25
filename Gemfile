@@ -7,7 +7,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'sass-rails'
-group :development, :test do
+
+group :development
   gem 'sqlite3'
 end
 
