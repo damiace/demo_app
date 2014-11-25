@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.8'
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'uglifier'
 group :development, :test do
   gem 'sqlite3'
 end
