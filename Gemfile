@@ -8,7 +8,7 @@ gem 'turbolinks'
 gem 'uglifier'
 gem 'sass-rails'
 
-group :development
+group :development do
   gem 'sqlite3'
 end
 
